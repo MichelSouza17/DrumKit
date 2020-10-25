@@ -1,0 +1,4 @@
+[1021/140445.064:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1021/235738.312:ERROR:process_info.cc(359)] UncheckedAllocate
+[1021/235738.312:ERROR:process_info.cc(359)] UncheckedAllocate
+[1021/235738.389:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\miche\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\047b888b-38bd-43e2-8142-e6517d663ca9: O sistema não pode encontrar o caminho especificado. (0x3)
